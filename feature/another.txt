@@ -1,3 +1,5 @@
-DJ Khaled: "Another one!" (feature-1 branch)
+Bogdan kiled Khaled in feature-2
 
 Local change
+
+Line added in feature-2 branch
