@@ -1,4 +1,4 @@
 # test-repo
 Bogdan Stashchuk
 
-Bogdan made me manually edit this. Locally too.
+This line was modified manually during conflict resolution.
