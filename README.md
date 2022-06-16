@@ -1,4 +1,4 @@
 # test-repo
 Bogdan Stashchuk
 
-Bogdan made me manually edit this.
+Bogdan made me manually edit this. Locally too.
