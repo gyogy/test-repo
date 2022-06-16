@@ -3,3 +3,5 @@ Bogdan kiled Khaled in feature-2
 Local change
 
 Line added in feature-2 branch
+
+ANOTHER ONE! said DJ Khaled's corpse in feature-2 branch.
